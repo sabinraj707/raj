@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sabinraj707/myportflio/static/css/main.58462fbc.css",
+    "main.js": "/sabinraj707/myportflio/static/js/main.e128f42b.js",
+    "static/media/about.jpg": "/sabinraj707/myportflio/static/media/about.d709762aa0d29aeae6df.jpg",
+    "static/media/kathi.mp3": "/sabinraj707/myportflio/static/media/kathi.aaa0e805cb2aadfcc848.mp3",
+    "static/media/image.png": "/sabinraj707/myportflio/static/media/image.66138d8e722328ef8345.png",
+    "index.html": "/sabinraj707/myportflio/index.html",
+    "main.58462fbc.css.map": "/sabinraj707/myportflio/static/css/main.58462fbc.css.map",
+    "main.e128f42b.js.map": "/sabinraj707/myportflio/static/js/main.e128f42b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.e128f42b.js"
+  ]
+}
